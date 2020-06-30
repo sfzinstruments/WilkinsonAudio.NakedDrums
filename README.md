@@ -5,6 +5,37 @@ up to 5 velocity layers and several mic layers (Direct, OH, Close room,
 Far rooms, Mid-side and Wide OH). Originally available free in Kontakt nki format,
 now created as SFZ format v2 (ARIA extensions) with flac samples by kinwie.
 
+## Shells
+
+- Yamaha Recording Custom - Cherry
+- Remo Heads
+- 22" Kick Drum
+- 10", 12", 13",  14", 16" Toms
+- Ayotte 14" x 5" silver sparkle snare
+- Pearl 13" x 6.5" Joey Jordison Signature Snare
+
+## Cymbals
+
+- Mixture of Sabian HH/AA/AAX and some Zildjian A Series
+- 2 Splashes
+- 2 Crashes (bow and bell)
+- 2 Chinas
+- Ride (bow and bell)
+- Hi-Hats
+
+## Preamps
+
+- Vintage Neve 1073
+- Vintage Neve 1081
+- BAE 1073
+- API 512
+
+## Converters
+
+- Apogee Symphony IO
+- Apogee Rosetta 800
+
+
 # Installation
 
 For the ARIA Player multi (.ariax) files to work properly,
