@@ -1,0 +1,30 @@
+#define $MIC FarRooms
+
+#define $ART D3
+
+#define $VEL1 20
+#define $VEL2 30
+
+#define $CODE_01 IZ0F
+#define $CODE_02 KPF6
+#define $CODE_03 M74F
+#define $CODE_04 VYPR
+#define $CODE_05 LZTK
+#define $CODE_06 D1GS
+#define $CODE_07 RLB0
+#define $CODE_08 SO6J
+#define $CODE_09 MH20
+#define $CODE_10 JRBO
+#define $CODE_11 4PX7
+#define $CODE_12 8TQ7
+#define $CODE_13 VRVQ
+#define $CODE_14 RB3X
+#define $CODE_15 TBIH
+#define $CODE_16 8VSE
+#define $CODE_17 SYOW
+#define $CODE_18 UI9L
+#define $CODE_19 WMEB
+#define $CODE_20 VX1R
+
+//sample-start fix
+#define $offset 8625

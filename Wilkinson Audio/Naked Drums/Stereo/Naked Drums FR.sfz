@@ -1,0 +1,80 @@
+//--------------------------------------
+// ARIA SFZ Level 2.0
+//--------------------------------------
+// Naked Drums
+// © Wilkinson Audio 2016
+//--------------------------------------
+
+#include "../Data/keymap.txt"
+#include "../Data/macro.txt"
+//--------------------------------------
+#include "../Data/control/str_oh.txt"
+#include "../Data/control/str_cr.txt"
+#include "../Data/control/str_fr.txt"
+#include "../Data/control/hh_ped.txt"
+//--------------------------------------
+#include "../Data/global.txt"
+
+//direct mics
+#include "../Data/stereo/DI_Kick_In.txt"
+#include "../Data/stereo/DI_Kick_Sub.txt"
+#include "../Data/stereo/DI_Snare_Tops.txt"
+#include "../Data/stereo/DI_Snare_Bot.txt"
+#include "../Data/stereo/DI_Tom1.txt"
+#include "../Data/stereo/DI_Tom2.txt"
+#include "../Data/stereo/DI_Tom3.txt"
+#include "../Data/stereo/DI_Tom4.txt"
+#include "../Data/stereo/DI_Tom5.txt"
+#include "../Data/stereo/DI_Hats.txt"
+#include "../Data/stereo/DI_Ride.txt"
+
+//overhead
+#include "../Data/stereo/OH_Kick.txt"
+#include "../Data/stereo/OH_Snare.txt"
+#include "../Data/stereo/OH_Tom1.txt"
+#include "../Data/stereo/OH_Tom2.txt"
+#include "../Data/stereo/OH_Tom3.txt"
+#include "../Data/stereo/OH_Tom4.txt"
+#include "../Data/stereo/OH_Tom5.txt"
+#include "../Data/stereo/OH_Hats.txt"
+#include "../Data/stereo/OH_Ride.txt"
+#include "../Data/stereo/OH_Crash1.txt"
+#include "../Data/stereo/OH_Crash2.txt"
+#include "../Data/stereo/OH_Splash1.txt"
+#include "../Data/stereo/OH_Splash2.txt"
+#include "../Data/stereo/OH_China1.txt"
+#include "../Data/stereo/OH_China2.txt"
+
+//close room
+#include "../Data/stereo/CR_Kick.txt"
+#include "../Data/stereo/CR_Snare.txt"
+#include "../Data/stereo/CR_Tom1.txt"
+#include "../Data/stereo/CR_Tom2.txt"
+#include "../Data/stereo/CR_Tom3.txt"
+#include "../Data/stereo/CR_Tom4.txt"
+#include "../Data/stereo/CR_Tom5.txt"
+#include "../Data/stereo/CR_Hats.txt"
+#include "../Data/stereo/CR_Ride.txt"
+#include "../Data/stereo/CR_Crash1.txt"
+#include "../Data/stereo/CR_Crash2.txt"
+#include "../Data/stereo/CR_Splash1.txt"
+#include "../Data/stereo/CR_Splash2.txt"
+#include "../Data/stereo/CR_China1.txt"
+#include "../Data/stereo/CR_China2.txt"
+
+//far rooms
+#include "../Data/stereo/FR_Kick.txt"
+#include "../Data/stereo/FR_Snare.txt"
+#include "../Data/stereo/FR_Tom1.txt"
+#include "../Data/stereo/FR_Tom2.txt"
+#include "../Data/stereo/FR_Tom3.txt"
+#include "../Data/stereo/FR_Tom4.txt"
+#include "../Data/stereo/FR_Tom5.txt"
+#include "../Data/stereo/FR_Hats.txt"
+#include "../Data/stereo/FR_Ride.txt"
+#include "../Data/stereo/FR_Crash1.txt"
+#include "../Data/stereo/FR_Crash2.txt"
+#include "../Data/stereo/FR_Splash1.txt"
+#include "../Data/stereo/FR_Splash2.txt"
+#include "../Data/stereo/FR_China1.txt"
+#include "../Data/stereo/FR_China2.txt"

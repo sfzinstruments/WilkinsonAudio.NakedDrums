@@ -1,0 +1,32 @@
+master_label=$LAB_SNR1
+master_volume=$TRIM_CR_SNR
+note_polyphony=$POLY_SHELL
+off_time=$OTM_CR_SNR
+group=$GRP_CR_SNR
+
+//articulation trim
+#define $TRIM_SIDE -12
+#define $TRIM_SNR1 0
+#define $TRIM_SNR2 0
+
+<group>
+key=$KEY_SIDE
+group_volume=$TRIM_SIDE
+group_label=$sidestick
+#include "../Data/file/Y5TO.txt"
+#include "../Data/region/v1.txt"
+
+<group>
+key=$KEY_SNR1
+group_volume=$TRIM_SNR1
+group_label=$center
+#include "../Data/file/PSJF.txt"
+#include "../Data/region/v5.txt"
+
+<group>
+key=$KEY_SNR2
+group_volume=$TRIM_SNR2
+group_label=$center
+master_label=$LAB_SNR2
+#include "../Data/file/3S62.txt"
+#include "../Data/region/v5.txt"

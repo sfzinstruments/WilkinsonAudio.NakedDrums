@@ -1,0 +1,38 @@
+#define $MIC MidSide
+
+#define $ART D3
+
+#define $VEL1 10
+#define $VEL2 20
+#define $VEL3 30
+
+#define $CODE_01 611K
+#define $CODE_02 72EU
+#define $CODE_03 FB04
+#define $CODE_04 WFYT
+#define $CODE_05 HO22
+#define $CODE_06 F9CV
+#define $CODE_07 APSF
+#define $CODE_08 TQPW
+#define $CODE_09 YDF7
+#define $CODE_10 EOTK
+#define $CODE_11 1R9V
+#define $CODE_12 EUV0
+#define $CODE_13 SDGE
+#define $CODE_14 4ZDL
+#define $CODE_15 YHCL
+#define $CODE_16 GBQT
+#define $CODE_17 XP98
+#define $CODE_18 GB7C
+#define $CODE_19 Y4IX
+#define $CODE_20 HY5H
+#define $CODE_21 7XWA
+#define $CODE_22 XR7M
+#define $CODE_23 TUWM
+#define $CODE_24 460G
+#define $CODE_25 4WUN
+#define $CODE_26 3PGI
+#define $CODE_27 LMBO
+#define $CODE_28 U8IY
+#define $CODE_29 RYMH
+#define $CODE_30 1FW9

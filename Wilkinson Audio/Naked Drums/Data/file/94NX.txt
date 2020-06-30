@@ -1,0 +1,16 @@
+#define $MIC China_Mics
+
+#define $ART E2
+
+#define $VEL1 10
+
+#define $CODE_01 94NX
+#define $CODE_02 FJHZ
+#define $CODE_03 ZAH0
+#define $CODE_04 3MJK
+#define $CODE_05 WD4U
+#define $CODE_06 7E0G
+#define $CODE_07 SDLY
+#define $CODE_08 J3NC
+#define $CODE_09 U663
+#define $CODE_10 VVAI

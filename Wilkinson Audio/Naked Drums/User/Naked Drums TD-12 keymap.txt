@@ -1,0 +1,54 @@
+//---------------------------------------
+// Naked Drums Keymap : TD-12
+//---------------------------------------
+
+#define $KEY_KICK 36
+
+#define $KEY_SIDE 37
+#define $KEY_SNR1 38
+#define $KEY_SNR2 40
+
+#define $KEY_TOM2 48
+#define $KEY_TOM3 45
+#define $KEY_TOM5 43
+
+#define $KEY_RD_BOW 51
+#define $KEY_RD_BEL 53
+
+#define $KEY_CRS1_EDG 55
+#define $KEY_CRS1_BEL 49
+
+#define $KEY_CRS2_EDG 52
+#define $KEY_CRS2_BEL 57
+
+#define $KEY_SPL2 28
+
+#define $KEY_CHN2 30
+
+//cymbal choke
+#define $CHK_RD 60
+#define $CHK_CRS1 61
+#define $CHK_CRS2 62
+#define $CHK_SPL2 64
+#define $CHK_CHN2 66
+
+//---------------------------------------
+//hihat mode
+
+#define $KEY_HH_PDL 44
+
+//non-variable
+#define $KEY_HH_TGH 42
+#define $KEY_HH_CLS 22
+#define $KEY_HH_HLF 46
+#define $KEY_HH_OPN 26
+
+//variable
+#define $KEY_HH_BOW 42
+#define $KEY_HH_EDG 22
+
+//keyswitch
+#define $SW_DEF 13
+//----------------------
+#define $SW_NON 12
+#define $SW_VAR 13

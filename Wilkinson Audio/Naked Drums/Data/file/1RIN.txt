@@ -1,0 +1,16 @@
+#define $MIC TopOne
+
+#define $ART E3
+
+#define $VEL1 10
+
+#define $CODE_01 1RIN
+#define $CODE_02 OE4S
+#define $CODE_03 F43Q
+#define $CODE_04 99DT
+#define $CODE_05 5B2C
+#define $CODE_06 XOB2
+#define $CODE_07 2OSN
+#define $CODE_08 WZGO
+#define $CODE_09 LLMO
+#define $CODE_10 TGB0

@@ -1,0 +1,38 @@
+#define $MIC China_Mics
+
+#define $ART G2
+
+#define $VEL1 10
+#define $VEL2 20
+#define $VEL3 30
+
+#define $CODE_01 MBS0
+#define $CODE_02 BQ13
+#define $CODE_03 APL9
+#define $CODE_04 NW64
+#define $CODE_05 LVW7
+#define $CODE_06 QGIQ
+#define $CODE_07 YC1W
+#define $CODE_08 JTO3
+#define $CODE_09 6S7N
+#define $CODE_10 WS73
+#define $CODE_11 4G7B
+#define $CODE_12 RWBN
+#define $CODE_13 E736
+#define $CODE_14 R83N
+#define $CODE_15 IKN7
+#define $CODE_16 0UTS
+#define $CODE_17 YAUR
+#define $CODE_18 7T0U
+#define $CODE_19 V93P
+#define $CODE_20 CI9V
+#define $CODE_21 MHGG
+#define $CODE_22 2UU2
+#define $CODE_23 76BY
+#define $CODE_24 10OM
+#define $CODE_25 7XAX
+#define $CODE_26 EKIW
+#define $CODE_27 H5HN
+#define $CODE_28 FKH1
+#define $CODE_29 55DC
+#define $CODE_30 IDD5

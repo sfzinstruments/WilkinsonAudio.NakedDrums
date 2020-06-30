@@ -1,0 +1,16 @@
+#define $MIC CloseRoom
+
+#define $ART E3
+
+#define $VEL1 10
+
+#define $CODE_01 L80G
+#define $CODE_02 ROB6
+#define $CODE_03 YIY2
+#define $CODE_04 5X15
+#define $CODE_05 VSNL
+#define $CODE_06 806V
+#define $CODE_07 Q83Y
+#define $CODE_08 WGIR
+#define $CODE_09 D82J
+#define $CODE_10 TUT0

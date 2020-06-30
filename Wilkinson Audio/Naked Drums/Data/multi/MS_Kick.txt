@@ -1,0 +1,4 @@
+<master>
+locc$MS_KICK=1
+amplitude_oncc$MS_KICK=$RANGE_VOL
+#include "../Data/group/kick_ms.txt"

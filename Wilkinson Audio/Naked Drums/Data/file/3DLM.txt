@@ -1,0 +1,16 @@
+#define $MIC HatMic
+
+#define $ART E2
+
+#define $VEL1 10
+
+#define $CODE_01 3DLM
+#define $CODE_02 GHNL
+#define $CODE_03 24WB
+#define $CODE_04 EIOP
+#define $CODE_05 SCB1
+#define $CODE_06 PGZK
+#define $CODE_07 82IV
+#define $CODE_08 UYMT
+#define $CODE_09 J7LW
+#define $CODE_10 ZGHF

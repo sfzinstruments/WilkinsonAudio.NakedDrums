@@ -1,0 +1,16 @@
+#define $MIC OH
+
+#define $ART E2
+
+#define $VEL1 10
+
+#define $CODE_01 TCLW
+#define $CODE_02 8NXR
+#define $CODE_03 GL0S
+#define $CODE_04 LFQI
+#define $CODE_05 CQME
+#define $CODE_06 R83Z
+#define $CODE_07 328U
+#define $CODE_08 YDSR
+#define $CODE_09 SPU5
+#define $CODE_10 DEBI

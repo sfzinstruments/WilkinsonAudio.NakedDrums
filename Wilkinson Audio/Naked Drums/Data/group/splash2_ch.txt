@@ -1,0 +1,14 @@
+master_label=$LAB_SPL2
+master_volume=$TRIM_CH_SPL2
+
+<group>
+key=$KEY_SPL2
+group=$GRP_CH_SPL2
+off_by=$OFF_SPL2
+off_time=$OTM_CH_SPL2
+note_polyphony=$POLY_CYMBAL
+group_label=$edge
+#include "../Data/file/D764.txt"
+#include "../Data/region/v2.txt"
+
+#include "../Data/setting/off_spl2.txt"

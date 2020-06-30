@@ -1,0 +1,39 @@
+#define $POS 1
+#define $RR one
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_01.$ext
+
+#define $POS 2
+#define $RR two
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_02.$ext
+
+#define $POS 3
+#define $RR three
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_03.$ext
+
+#define $POS 4
+#define $RR four
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_04.$ext
+
+#define $POS 5
+#define $RR five
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_05.$ext
+
+#define $POS 6
+#define $RR six
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_06.$ext
+
+#define $POS 7
+#define $RR seven
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_07.$ext
+
+#define $POS 8
+#define $RR eight
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_08.$ext
+
+#define $POS 9
+#define $RR nine
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_09.$ext
+
+#define $POS 10
+#define $RR ten
+<region> lovel=$V11L hivel=$V11H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_10.$ext

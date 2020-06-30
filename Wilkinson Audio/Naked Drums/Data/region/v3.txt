@@ -1,0 +1,59 @@
+#define $POS 1
+#define $RR one
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_01.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_02.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_03.$ext
+
+#define $POS 2
+#define $RR two
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_04.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_05.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_06.$ext
+
+#define $POS 3
+#define $RR three
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_07.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_08.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_09.$ext
+
+#define $POS 4
+#define $RR four
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_10.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_11.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_12.$ext
+
+#define $POS 5
+#define $RR five
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_13.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_14.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_15.$ext
+
+#define $POS 6
+#define $RR six
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_16.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_17.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_18.$ext
+
+#define $POS 7
+#define $RR seven
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_19.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_20.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_21.$ext
+
+#define $POS 8
+#define $RR eight
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_22.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_23.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_24.$ext
+
+#define $POS 9
+#define $RR nine
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_25.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_26.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_27.$ext
+
+#define $POS 10
+#define $RR ten
+<region> lovel=$V31L hivel=$V31H seq_position=$POS region_label=$VEL1 $RR sample=$MIC_$ART_$VEL1_$RR-$CODE_28.$ext
+<region> lovel=$V32L hivel=$V32H seq_position=$POS region_label=$VEL2 $RR sample=$MIC_$ART_$VEL2_$RR-$CODE_29.$ext
+<region> lovel=$V33L hivel=$V33H seq_position=$POS region_label=$VEL3 $RR sample=$MIC_$ART_$VEL3_$RR-$CODE_30.$ext

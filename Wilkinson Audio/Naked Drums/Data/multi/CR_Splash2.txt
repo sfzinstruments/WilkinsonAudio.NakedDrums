@@ -1,0 +1,4 @@
+<master>
+locc$CR_SPL2=1
+amplitude_oncc$CR_SPL2=$RANGE_VOL
+#include "../Data/group/splash2_cr.txt"

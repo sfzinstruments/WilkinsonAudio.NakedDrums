@@ -1,0 +1,142 @@
+#include "../Data/setting/sw_set.txt"
+master_label=$LAB_HH
+master_volume=$TRIM_MS_HH
+note_polyphony=$POLY_CYMBAL
+off_time=$OTM_MS_HH
+
+//articulation trim
+#define $TRIM_HH_PDL 0
+#define $TRIM_HH_TGH -4
+#define $TRIM_HH_CLS 1
+#define $TRIM_HH_HLF 7
+#define $TRIM_HH_OPN 8
+
+<group>
+key=$KEY_HH_PDL
+group=$GRP_MS_HH_C
+group_volume=$TRIM_HH_PDL
+group_label=$pedal
+#include "../Data/setting/off_all.txt"
+#include "../Data/file/UJ0J.txt"
+#include "../Data/region/v1.txt"
+
+//--------------------------------------------
+
+<group>
+key=$KEY_HH_TGH
+group=$GRP_MS_HH_C
+group_volume=$TRIM_HH_TGH
+group_label=$tight
+#include "../Data/setting/sw_non.txt"
+#include "../Data/setting/off_all.txt"
+#include "../Data/file/T3M1.txt"
+#include "../Data/region/v3.txt"
+
+<group>
+key=$KEY_HH_CLS
+group=$GRP_MS_HH_C
+group_volume=$TRIM_HH_CLS
+group_label=$closed
+#include "../Data/setting/sw_non.txt"
+#include "../Data/setting/off_all.txt"
+#include "../Data/file/8C04.txt"
+#include "../Data/region/v3.txt"
+
+<group>
+key=$KEY_HH_HLF
+group=$GRP_MS_HH_HLF
+off_by=$OFF_HH_HLF
+group_volume=$TRIM_HH_HLF
+group_label=$half
+#include "../Data/setting/sw_non.txt"
+#include "../Data/setting/on_hlf.txt"
+#include "../Data/file/BEDF.txt"
+#include "../Data/region/v3.txt"
+
+<group>
+key=$KEY_HH_OPN
+group=$GRP_MS_HH_OPN
+off_by=$OFF_HH_OPN
+group_volume=$TRIM_HH_OPN
+group_label=$open
+#include "../Data/setting/sw_non.txt"
+#include "../Data/file/CU9Q.txt"
+#include "../Data/region/v3.txt"
+
+//--------------------------------------------
+
+<group>
+key=$KEY_HH_BOW
+locc$PED=$LOPED1
+hicc$PED=$HIPED1
+group=$GRP_MS_HH_OPN
+off_by=$OFF_HH_OPN
+group_volume=$TRIM_HH_OPN
+group_label=$open
+#include "../Data/setting/sw_var.txt"
+#include "../Data/file/CU9Q.txt"
+#include "../Data/region/v3.txt"
+
+<group>
+key=$KEY_HH_BOW
+locc$PED=$LOPED2
+hicc$PED=$HIPED2
+group=$GRP_MS_HH_HLF
+off_by=$OFF_HH_HLF
+group_volume=$TRIM_HH_HLF
+group_label=$half
+#include "../Data/setting/sw_var.txt"
+#include "../Data/setting/on_hlf.txt"
+#include "../Data/file/BEDF.txt"
+#include "../Data/region/v3.txt"
+
+<group>
+key=$KEY_HH_BOW
+locc$PED=$LOPED3
+hicc$PED=$HIPED3
+group=$GRP_MS_HH_C
+group_volume=$TRIM_HH_TGH
+group_label=$tight
+#include "../Data/setting/sw_var.txt"
+#include "../Data/setting/off_all.txt"
+#include "../Data/file/T3M1.txt"
+#include "../Data/region/v3.txt"
+
+//--------------------------------------------
+
+<group>
+key=$KEY_HH_EDG
+locc$PED=$LOPED1
+hicc$PED=$HIPED1
+group=$GRP_MS_HH_OPN
+off_by=$OFF_HH_OPN
+group_volume=$TRIM_HH_OPN
+group_label=$open
+#include "../Data/setting/sw_var.txt"
+#include "../Data/file/CU9Q.txt"
+#include "../Data/region/v3.txt"
+
+<group>
+key=$KEY_HH_EDG
+locc$PED=$LOPED2
+hicc$PED=$HIPED2
+group=$GRP_MS_HH_HLF
+off_by=$OFF_HH_HLF
+group_volume=$TRIM_HH_HLF
+group_label=$half
+#include "../Data/setting/sw_var.txt"
+#include "../Data/setting/on_hlf.txt"
+#include "../Data/file/BEDF.txt"
+#include "../Data/region/v3.txt"
+
+<group>
+key=$KEY_HH_EDG
+locc$PED=$LOPED3
+hicc$PED=$HIPED3
+group=$GRP_MS_HH_C
+group_volume=$TRIM_HH_CLS
+group_label=$closed
+#include "../Data/setting/sw_var.txt"
+#include "../Data/setting/off_all.txt"
+#include "../Data/file/8C04.txt"
+#include "../Data/region/v3.txt"

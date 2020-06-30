@@ -1,0 +1,7 @@
+label_cc$VOL_ST1=$LAB_TOP1
+set_hdcc$VOL_ST1=$SET_DEF
+
+label_cc$VOL_ST2=$LAB_TOP2
+set_hdcc$VOL_ST2=$SET_DEF
+
+label_cc$SPLIT=$LAB_SPLIT

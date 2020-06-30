@@ -1,0 +1,8 @@
+<master>
+locc$VOL_DI=1
+locc$VOL_RD=1
+amplitude_oncc$VOL_DI=$RANGE_VOL
+amplitude_oncc$VOL_RD=$RANGE_VOL
+pan_oncc$PAN_RD=$RANGE_PAN
+pan_curvecc$PAN_RD=1
+#include "../Data/group/ride_di.txt"

@@ -1,0 +1,38 @@
+#define $MIC HatMic
+
+#define $ART A2
+
+#define $VEL1 10
+#define $VEL2 20
+#define $VEL3 30
+
+#define $CODE_01 7G28
+#define $CODE_02 GU63
+#define $CODE_03 G62L
+#define $CODE_04 OJDH
+#define $CODE_05 VJNC
+#define $CODE_06 EQGU
+#define $CODE_07 1ICH
+#define $CODE_08 VG68
+#define $CODE_09 3SLH
+#define $CODE_10 EDY7
+#define $CODE_11 FKAB
+#define $CODE_12 LLZP
+#define $CODE_13 VNRT
+#define $CODE_14 WDZ3
+#define $CODE_15 2205
+#define $CODE_16 TN1U
+#define $CODE_17 UIGO
+#define $CODE_18 9R5E
+#define $CODE_19 PYD2
+#define $CODE_20 D882
+#define $CODE_21 PLLD
+#define $CODE_22 SVF1
+#define $CODE_23 ZUAK
+#define $CODE_24 QC4V
+#define $CODE_25 5V1C
+#define $CODE_26 MQUL
+#define $CODE_27 0H7V
+#define $CODE_28 PN47
+#define $CODE_29 SXNK
+#define $CODE_30 04YT

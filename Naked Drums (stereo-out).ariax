@@ -1,0 +1,320 @@
+<?xml version="1.0" ?>
+<AriaSave version="1816" productID="1012">
+    <Settings quality="1" streaming="32" maxStreamAllocMB="1024" MIDIOutMode="1" automationSlot="0" automationlevel="instrument" liveMode="0" sc="1" scala="01 - equal.scl" scalaCenter="60" globalTuning="0" />
+    <Slot id="0" name="Wilkinson Audio/Naked Drums/Multi/Kick In" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+    </Slot>
+    <Slot id="1" name="Wilkinson Audio/Naked Drums/Multi/Kick Sub" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+    </Slot>
+    <Slot id="2" name="Wilkinson Audio/Naked Drums/Multi/Snare Tops" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+    </Slot>
+    <Slot id="3" name="Wilkinson Audio/Naked Drums/Multi/Snare Bottom" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+    </Slot>
+    <Slot id="4" name="Wilkinson Audio/Naked Drums/Multi/Tom 1" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+        <Param id="10" value="0.2" />
+    </Slot>
+    <Slot id="5" name="Wilkinson Audio/Naked Drums/Multi/Tom 2" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+        <Param id="10" value="0.35" />
+    </Slot>
+    <Slot id="6" name="Wilkinson Audio/Naked Drums/Multi/Tom 3" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+        <Param id="10" value="0.5" />
+    </Slot>
+    <Slot id="7" name="Wilkinson Audio/Naked Drums/Multi/Tom 4" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+        <Param id="10" value="0.65" />
+    </Slot>
+    <Slot id="8" name="Wilkinson Audio/Naked Drums/Multi/Tom 5" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+        <Param id="10" value="0.8" />
+    </Slot>
+    <Slot id="9" name="Wilkinson Audio/Naked Drums/Multi/Hats" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0" sw_last="12">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+        <Param id="10" value="0.35" />
+    </Slot>
+    <Slot id="10" name="Wilkinson Audio/Naked Drums/Multi/Ride" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+        <Param id="10" value="0.65" />
+    </Slot>
+    <Slot id="11" name="Wilkinson Audio/Naked Drums/Multi/Overheads" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0" sw_last="12">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+    </Slot>
+    <Slot id="12" name="Wilkinson Audio/Naked Drums/Multi/Close Room" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0" sw_last="12">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+    </Slot>
+    <Slot id="13" name="Wilkinson Audio/Naked Drums/Multi/Far Rooms" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0" sw_last="12">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+    </Slot>
+    <Slot id="14" name="Wilkinson Audio/Naked Drums/Multi/Mid-Side" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0" sw_last="12">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+    </Slot>
+    <Slot id="15" name="Wilkinson Audio/Naked Drums/Multi/China Wide OH" bankId="5000" version="0" channel="-1" poly="128" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" sc="1" mute="0" sw_last="12">
+        <Main id="0" value="1" />
+        <Main id="1" value="0" />
+        <Main id="2" value="0" />
+        <Main id="3" value="0" />
+        <Main id="4" value="0" />
+        <Main id="5" value="0" />
+        <Main id="6" value="0" />
+        <Main id="7" value="0" />
+        <Main id="8" value="0" />
+        <Main id="9" value="0" />
+        <Main id="10" value="0" />
+        <Main id="11" value="0" />
+        <Main id="12" value="0" />
+        <Main id="13" value="0" />
+        <Main id="14" value="0" />
+        <Main id="15" value="0" />
+    </Slot>
+    <EffectSlot id="0" sc="1" name="Conv+Amb" bankId="1012" version="1846">
+        <Param id="18" value="1" />
+    </EffectSlot>
+    <GUI id="0" activeISlot="11" activeESlot="0" selectedTab="2">
+	    <PresetMenu islot="0" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="1" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="2" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="3" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="4" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="5" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="6" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="7" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="8" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="9" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="10" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="11" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="12" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="13" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="14" target="com.Plogue.Aria" text="Naked Drums" />
+        <PresetMenu islot="15" target="com.Plogue.Aria" text="Naked Drums" />
+    </GUI>
+</AriaSave>

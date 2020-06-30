@@ -1,0 +1,4 @@
+<master>
+locc$CR_TOM2=1
+amplitude_oncc$CR_TOM2=$RANGE_VOL
+#include "../Data/group/tom2_cr.txt"

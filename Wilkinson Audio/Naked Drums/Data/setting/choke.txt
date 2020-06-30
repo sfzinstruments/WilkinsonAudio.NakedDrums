@@ -1,0 +1,3 @@
+group_label=$choke
+sample=*silence
+seq_length=1

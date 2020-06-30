@@ -1,0 +1,30 @@
+#define $MIC TopOne
+
+#define $ART D3
+
+#define $VEL1 20
+#define $VEL2 30
+
+#define $CODE_01 G1IU
+#define $CODE_02 PS46
+#define $CODE_03 3D1A
+#define $CODE_04 B2E4
+#define $CODE_05 RNGT
+#define $CODE_06 8T37
+#define $CODE_07 UTP5
+#define $CODE_08 U9KI
+#define $CODE_09 Y3W2
+#define $CODE_10 8WVS
+#define $CODE_11 PWJD
+#define $CODE_12 EBV3
+#define $CODE_13 DR56
+#define $CODE_14 BRXB
+#define $CODE_15 7FTU
+#define $CODE_16 MHHJ
+#define $CODE_17 S9D5
+#define $CODE_18 UER8
+#define $CODE_19 46TK
+#define $CODE_20 T460
+
+//sample-start fix
+#define $offset 8625

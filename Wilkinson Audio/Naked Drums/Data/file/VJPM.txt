@@ -1,0 +1,16 @@
+#define $MIC FarRooms_Black
+
+#define $ART D2
+
+#define $VEL1 50
+
+#define $CODE_01 VJPM
+#define $CODE_02 5PF8
+#define $CODE_03 HCNK
+#define $CODE_04 4YKE
+#define $CODE_05 BB1G
+#define $CODE_06 3D1S
+#define $CODE_07 R6WB
+#define $CODE_08 FDL4
+#define $CODE_09 CT6J
+#define $CODE_10 3GKT

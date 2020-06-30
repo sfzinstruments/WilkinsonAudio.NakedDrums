@@ -1,0 +1,2 @@
+label_cc$VOL_CH=$LAB_VOL_CH
+set_hdcc$VOL_CH=0.1

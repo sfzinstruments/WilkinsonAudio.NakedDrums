@@ -1,0 +1,11 @@
+master_label=$LAB_KICK
+master_volume=$TRIM_CR_KICK
+note_polyphony=$POLY_SHELL
+off_time=$OTM_CR_KICK
+group=$GRP_CR_KICK
+
+<group>
+key=$KEY_KICK
+group_label=$center
+#include "../Data/file/J072.txt"
+#include "../Data/region/v5.txt"

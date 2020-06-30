@@ -1,0 +1,16 @@
+#define $MIC MidSide
+
+#define $ART F3
+
+#define $VEL1 10
+
+#define $CODE_01 7CQ8
+#define $CODE_02 NDWE
+#define $CODE_03 BDO9
+#define $CODE_04 WCXV
+#define $CODE_05 SFL8
+#define $CODE_06 IWEX
+#define $CODE_07 46HP
+#define $CODE_08 TAKL
+#define $CODE_09 SM7G
+#define $CODE_10 03SB

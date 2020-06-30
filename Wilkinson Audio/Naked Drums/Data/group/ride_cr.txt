@@ -1,0 +1,30 @@
+master_label=$LAB_RD
+master_volume=$TRIM_CR_RD
+
+//articulation trim
+#define $TRIM_RD_BOW 0
+#define $TRIM_RD_BEL 2
+
+<group>
+key=$KEY_RD_BOW
+group=$GRP_CR_RD_BOW
+off_by=$OFF_RD
+off_time=$OTM_CR_RD
+note_polyphony=$POLY_CYMBAL
+group_volume=$TRIM_RD_BOW
+group_label=$bow
+#include "../Data/file/DVUI.txt"
+#include "../Data/region/v3.txt"
+
+<group>
+key=$KEY_RD_BEL
+group=$GRP_CR_RD_BEL
+off_by=$OFF_RD
+off_time=$OTM_CR_RD
+note_polyphony=$POLY_CYMBAL
+group_volume=$TRIM_RD_BEL
+group_label=$bell
+#include "../Data/file/1XK0.txt"
+#include "../Data/region/v1.txt"
+
+#include "../Data/setting/off_rd.txt"

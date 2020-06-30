@@ -1,0 +1,4 @@
+<master>
+locc$FR_CRS2=1
+amplitude_oncc$FR_CRS2=$RANGE_VOL
+#include "../Data/group/crash2_fr.txt"

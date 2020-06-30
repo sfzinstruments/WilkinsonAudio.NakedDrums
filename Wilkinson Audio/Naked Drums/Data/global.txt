@@ -1,0 +1,4 @@
+<global>
+loop_mode=one_shot
+seq_length=10
+amp_veltrack=$VELTRACK

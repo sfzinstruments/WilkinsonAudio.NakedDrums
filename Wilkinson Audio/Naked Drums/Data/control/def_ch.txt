@@ -1,0 +1,17 @@
+label_cc$CH_HH=$LAB_HH
+label_cc$CH_RD=$LAB_RD
+label_cc$CH_CRS1=$LAB_CRS1
+label_cc$CH_CRS2=$LAB_CRS2
+label_cc$CH_SPL1=$LAB_SPL1
+label_cc$CH_SPL2=$LAB_SPL2
+label_cc$CH_CHN1=$LAB_CHN1
+label_cc$CH_CHN2=$LAB_CHN2
+
+set_hdcc$CH_HH=$SET_DEF
+set_hdcc$CH_RD=$SET_DEF
+set_hdcc$CH_CRS1=$SET_DEF
+set_hdcc$CH_CRS2=$SET_DEF
+set_hdcc$CH_SPL1=$SET_DEF
+set_hdcc$CH_SPL2=$SET_DEF
+set_hdcc$CH_CHN1=$SET_DEF
+set_hdcc$CH_CHN2=$SET_DEF

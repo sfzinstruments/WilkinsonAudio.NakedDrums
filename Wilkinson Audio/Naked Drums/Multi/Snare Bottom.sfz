@@ -1,0 +1,12 @@
+//--------------------------------------
+// ARIA SFZ Level 2.0
+//--------------------------------------
+// Naked Drums
+// © Wilkinson Audio 2016
+//--------------------------------------
+
+#include "../Data/keymap.txt"
+#include "../Data/macro.txt"
+#include "../Data/global.txt"
+
+#include "../Data/multi/DI_Snare_Bot.txt"

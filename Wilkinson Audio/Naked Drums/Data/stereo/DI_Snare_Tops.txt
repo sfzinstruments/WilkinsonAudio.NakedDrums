@@ -1,0 +1,17 @@
+<master>
+locc$VOL_DI=1
+locc$VOL_ST1=1
+amplitude_oncc$VOL_DI=$RANGE_VOL
+amplitude_oncc$VOL_ST1=$RANGE_VOL
+pan_oncc$PAN_SNR=$RANGE_PAN
+pan_curvecc$PAN_SNR=1
+#include "../Data/group/snare_top1.txt"
+
+<master>
+locc$VOL_DI=1
+locc$VOL_ST2=1
+amplitude_oncc$VOL_DI=$RANGE_VOL
+amplitude_oncc$VOL_ST2=$RANGE_VOL
+pan_oncc$PAN_SNR=$RANGE_PAN
+pan_curvecc$PAN_SNR=1
+#include "../Data/group/snare_top2.txt"

@@ -1,0 +1,16 @@
+#define $MIC FarRooms
+
+#define $ART E3
+
+#define $VEL1 10
+
+#define $CODE_01 643V
+#define $CODE_02 Y1Q7
+#define $CODE_03 BGYF
+#define $CODE_04 P2ZN
+#define $CODE_05 VEV6
+#define $CODE_06 ZL2M
+#define $CODE_07 HFFC
+#define $CODE_08 D1MF
+#define $CODE_09 6550
+#define $CODE_10 R59U

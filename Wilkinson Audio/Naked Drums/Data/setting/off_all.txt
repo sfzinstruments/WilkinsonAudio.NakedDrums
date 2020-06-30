@@ -1,0 +1,11 @@
+<region>
+sample=*silence
+seq_length=1
+off_by=-1
+group=$OFF_HH_OPN
+
+<region>
+sample=*silence
+seq_length=1
+off_by=-1
+group=$OFF_HH_HLF

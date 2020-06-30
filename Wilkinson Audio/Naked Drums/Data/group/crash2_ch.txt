@@ -1,0 +1,52 @@
+master_label=$LAB_CRS2
+master_volume=$TRIM_CH_CRS2
+
+//articulation trim
+#define $TRIM_CRS2_EDG 0
+#define $TRIM_CRS2_BEL -12
+#define $TRIM_CRS2_CHK -12
+
+<group>
+key=$KEY_CRS2_EDG
+group=$GRP_CH_CRS2_EDG
+off_by=$GRP_CH_CRS2_CHK
+off_time=$OTM_CH_CRS2_EDG
+note_polyphony=$POLY_EDG
+group_volume=$TRIM_CRS2_EDG
+group_label=$edge
+#include "../Data/file/4JC8.txt"
+#include "../Data/region/v3.txt"
+
+<group>
+key=$KEY_CRS2_BEL
+group=$GRP_CH_CRS2_BEL
+off_by=$OFF_CRS2
+off_time=$OTM_CH_CRS2_BEL
+note_polyphony=$POLY_CYMBAL
+group_volume=$TRIM_CRS2_BEL
+group_label=$bell
+#include "../Data/file/G845.txt"
+#include "../Data/region/v1.txt"
+
+//--------------------------------------------
+
+<group>
+key=$KEY_CRS2_EDG
+group=$GRP_CH_CRS2_CHK
+group_volume=$TRIM_CRS2_CHK
+group_label=$choke
+#include "../Data/setting/rt_polyaft.txt"
+#include "../Data/file/TQQF.txt"
+#include "../Data/region/v1.txt"
+
+<group>
+sw_down=$CHK_CRS2
+key=$KEY_CRS2_EDG
+group=$GRP_CH_CRS2_CHK
+group_volume=$TRIM_CRS2_CHK
+group_label=$choke
+#include "../Data/setting/rt_key.txt"
+#include "../Data/file/TQQF.txt"
+#include "../Data/region/v1.txt"
+
+#include "../Data/setting/off_crs2.txt"

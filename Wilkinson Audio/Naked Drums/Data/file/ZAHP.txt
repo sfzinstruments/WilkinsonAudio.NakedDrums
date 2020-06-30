@@ -1,0 +1,38 @@
+#define $MIC RideMic
+
+#define $ART D3
+
+#define $VEL1 10
+#define $VEL2 20
+#define $VEL3 30
+
+#define $CODE_01 ZAHP
+#define $CODE_02 WPGL
+#define $CODE_03 KDE4
+#define $CODE_04 PM2V
+#define $CODE_05 F47L
+#define $CODE_06 JK2D
+#define $CODE_07 CUS8
+#define $CODE_08 R9BX
+#define $CODE_09 CBH2
+#define $CODE_10 FLH0
+#define $CODE_11 QBZF
+#define $CODE_12 SKC0
+#define $CODE_13 8UII
+#define $CODE_14 G4TL
+#define $CODE_15 FR6A
+#define $CODE_16 A3CU
+#define $CODE_17 UUXV
+#define $CODE_18 XAOK
+#define $CODE_19 UECX
+#define $CODE_20 JVON
+#define $CODE_21 4OJH
+#define $CODE_22 6UMX
+#define $CODE_23 GJ55
+#define $CODE_24 HFCN
+#define $CODE_25 17PV
+#define $CODE_26 TUS1
+#define $CODE_27 JU0Q
+#define $CODE_28 LUAI
+#define $CODE_29 DUMD
+#define $CODE_30 51WO

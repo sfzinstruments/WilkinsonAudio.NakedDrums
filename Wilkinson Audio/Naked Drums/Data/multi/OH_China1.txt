@@ -1,0 +1,4 @@
+<master>
+locc$OH_CHN1=1
+amplitude_oncc$OH_CHN1=$RANGE_VOL
+#include "../Data/group/china1_oh.txt"

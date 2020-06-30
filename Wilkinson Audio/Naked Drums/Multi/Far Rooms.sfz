@@ -1,0 +1,30 @@
+//--------------------------------------
+// ARIA SFZ Level 2.0
+//--------------------------------------
+// Naked Drums
+// © Wilkinson Audio 2016
+//--------------------------------------
+
+#include "../Data/keymap.txt"
+#include "../Data/macro.txt"
+//--------------------------------------
+#include "../Data/control/def_fr.txt"
+#include "../Data/control/hh_ped.txt"
+//--------------------------------------
+#include "../Data/global.txt"
+
+#include "../Data/multi/FR_Kick.txt"
+#include "../Data/multi/FR_Snare.txt"
+#include "../Data/multi/FR_Tom1.txt"
+#include "../Data/multi/FR_Tom2.txt"
+#include "../Data/multi/FR_Tom3.txt"
+#include "../Data/multi/FR_Tom4.txt"
+#include "../Data/multi/FR_Tom5.txt"
+#include "../Data/multi/FR_Hats.txt"
+#include "../Data/multi/FR_Ride.txt"
+#include "../Data/multi/FR_Crash1.txt"
+#include "../Data/multi/FR_Crash2.txt"
+#include "../Data/multi/FR_Splash1.txt"
+#include "../Data/multi/FR_Splash2.txt"
+#include "../Data/multi/FR_China1.txt"
+#include "../Data/multi/FR_China2.txt"

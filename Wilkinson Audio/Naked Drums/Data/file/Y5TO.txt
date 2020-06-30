@@ -1,0 +1,16 @@
+#define $MIC CloseRoom_Black
+
+#define $ART D2
+
+#define $VEL1 50
+
+#define $CODE_01 Y5TO
+#define $CODE_02 OJU2
+#define $CODE_03 HFVC
+#define $CODE_04 8X9T
+#define $CODE_05 NJ3N
+#define $CODE_06 HAHD
+#define $CODE_07 EEHT
+#define $CODE_08 AI6F
+#define $CODE_09 3SUW
+#define $CODE_10 YDY4

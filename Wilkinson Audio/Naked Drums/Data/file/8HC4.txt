@@ -1,0 +1,16 @@
+#define $MIC TopTwo_Black
+
+#define $ART D2
+
+#define $VEL1 50
+
+#define $CODE_01 8HC4
+#define $CODE_02 QDRJ
+#define $CODE_03 OQLR
+#define $CODE_04 9HVT
+#define $CODE_05 L89B
+#define $CODE_06 WPR6
+#define $CODE_07 INK0
+#define $CODE_08 9B03
+#define $CODE_09 39XM
+#define $CODE_10 AAQM

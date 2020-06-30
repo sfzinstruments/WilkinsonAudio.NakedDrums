@@ -1,0 +1,4 @@
+<master>
+locc$CR_RD=1
+amplitude_oncc$CR_RD=$RANGE_VOL
+#include "../Data/group/ride_cr.txt"

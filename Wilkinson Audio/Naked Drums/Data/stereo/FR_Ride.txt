@@ -1,0 +1,4 @@
+<master>
+locc$VOL_FR=1
+amplitude_oncc$VOL_FR=$RANGE_VOL
+#include "../Data/group/ride_fr.txt"

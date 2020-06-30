@@ -1,0 +1,30 @@
+#define $MIC OH
+
+#define $ART D3
+
+#define $VEL1 20
+#define $VEL2 30
+
+#define $CODE_01 6SJT
+#define $CODE_02 LHYV
+#define $CODE_03 OY6Q
+#define $CODE_04 7P5U
+#define $CODE_05 SJM2
+#define $CODE_06 QT8W
+#define $CODE_07 RYCA
+#define $CODE_08 1MV6
+#define $CODE_09 HVEO
+#define $CODE_10 XL1Y
+#define $CODE_11 4Z08
+#define $CODE_12 7GVG
+#define $CODE_13 DMZ6
+#define $CODE_14 WIIP
+#define $CODE_15 90YR
+#define $CODE_16 XZ0B
+#define $CODE_17 Q1V7
+#define $CODE_18 7JNG
+#define $CODE_19 Q3XT
+#define $CODE_20 2X2L
+
+//sample-start fix
+#define $offset 0

@@ -1,0 +1,16 @@
+#define $MIC TopOne
+
+#define $ART E3
+
+#define $VEL1 10
+
+#define $CODE_01 2U9N
+#define $CODE_02 EQZK
+#define $CODE_03 TS3I
+#define $CODE_04 JPJG
+#define $CODE_05 PABO
+#define $CODE_06 OHFI
+#define $CODE_07 IPRG
+#define $CODE_08 3MXF
+#define $CODE_09 ZOQU
+#define $CODE_10 NYUB

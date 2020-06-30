@@ -1,0 +1,30 @@
+#define $MIC CloseRoom
+
+#define $ART D3
+
+#define $VEL1 20
+#define $VEL2 30
+
+#define $CODE_01 G73D
+#define $CODE_02 07G1
+#define $CODE_03 KUHX
+#define $CODE_04 9MOW
+#define $CODE_05 DX9B
+#define $CODE_06 YTYS
+#define $CODE_07 FP19
+#define $CODE_08 IQ31
+#define $CODE_09 XRAJ
+#define $CODE_10 78OI
+#define $CODE_11 EU73
+#define $CODE_12 RFCP
+#define $CODE_13 O25S
+#define $CODE_14 N61C
+#define $CODE_15 ZR5R
+#define $CODE_16 JKF0
+#define $CODE_17 RNGW
+#define $CODE_18 40QA
+#define $CODE_19 XEXM
+#define $CODE_20 CEVZ
+
+//sample-start fix
+#define $offset 8625

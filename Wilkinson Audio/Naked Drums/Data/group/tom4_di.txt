@@ -1,0 +1,12 @@
+master_label=$LAB_TOM4
+master_volume=$TRIM_DI_TOM4
+note_polyphony=$POLY_SHELL
+off_time=$OTM_DI_TOM4
+group=$GRP_DI_TOM4
+tune=$TUN_TOM4
+
+<group>
+key=$KEY_TOM4
+group_label=$center
+#include "../Data/file/DJ8O.txt"
+#include "../Data/region/v3.txt"

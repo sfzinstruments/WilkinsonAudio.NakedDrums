@@ -1,0 +1,4 @@
+<master>
+locc$OH_KICK=1
+amplitude_oncc$OH_KICK=$RANGE_VOL
+#include "../Data/group/kick_oh.txt"

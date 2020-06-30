@@ -1,0 +1,16 @@
+#define $MIC Bottom_Black
+
+#define $ART D2
+
+#define $VEL1 50
+
+#define $CODE_01 T8E0
+#define $CODE_02 SDF7
+#define $CODE_03 FS2F
+#define $CODE_04 Z1WM
+#define $CODE_05 81XV
+#define $CODE_06 8MFA
+#define $CODE_07 8OI7
+#define $CODE_08 899J
+#define $CODE_09 IUIZ
+#define $CODE_10 1E8E

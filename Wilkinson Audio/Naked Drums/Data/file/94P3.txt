@@ -1,0 +1,16 @@
+#define $MIC TopOne_Black
+
+#define $ART D2
+
+#define $VEL1 50
+
+#define $CODE_01 94P3
+#define $CODE_02 UWYS
+#define $CODE_03 KG4R
+#define $CODE_04 HI4P
+#define $CODE_05 NPUQ
+#define $CODE_06 ZCZX
+#define $CODE_07 HWKJ
+#define $CODE_08 7RRP
+#define $CODE_09 A47M
+#define $CODE_10 6Z56

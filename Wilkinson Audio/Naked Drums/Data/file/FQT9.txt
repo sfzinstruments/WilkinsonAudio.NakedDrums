@@ -1,0 +1,16 @@
+#define $MIC CloseRoom
+
+#define $ART E2
+
+#define $VEL1 10
+
+#define $CODE_01 FQT9
+#define $CODE_02 ANEL
+#define $CODE_03 FEQ0
+#define $CODE_04 QUXV
+#define $CODE_05 POEI
+#define $CODE_06 Y37Z
+#define $CODE_07 NPB5
+#define $CODE_08 491G
+#define $CODE_09 MJXD
+#define $CODE_10 Y05A

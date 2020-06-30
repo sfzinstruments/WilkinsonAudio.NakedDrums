@@ -1,0 +1,4 @@
+<master>
+locc$CH_CHN2=1
+amplitude_oncc$CH_CHN2=$RANGE_VOL
+#include "../Data/group/china2_ch.txt"

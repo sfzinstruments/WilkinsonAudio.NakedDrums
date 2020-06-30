@@ -1,0 +1,10 @@
+<group>
+group=$OFF_SPL2
+#include "../Data/setting/choke.txt"
+
+<region>
+key=$KEY_SPL2
+#include "../Data/setting/rt_polyaft.txt"
+
+<region>
+key=$CHK_SPL2

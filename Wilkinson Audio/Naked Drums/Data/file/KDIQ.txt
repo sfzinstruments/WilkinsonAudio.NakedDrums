@@ -1,0 +1,16 @@
+#define $MIC MS_Black
+
+#define $ART D2
+
+#define $VEL1 50
+
+#define $CODE_01 KDIQ
+#define $CODE_02 QS5Z
+#define $CODE_03 6MQ3
+#define $CODE_04 QMG7
+#define $CODE_05 92KN
+#define $CODE_06 Q467
+#define $CODE_07 9LR7
+#define $CODE_08 9V09
+#define $CODE_09 AGNO
+#define $CODE_10 AZ0J

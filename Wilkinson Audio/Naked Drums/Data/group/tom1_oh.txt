@@ -1,0 +1,12 @@
+master_label=$LAB_TOM1
+master_volume=$TRIM_OH_TOM1
+note_polyphony=$POLY_SHELL
+off_time=$OTM_OH_TOM1
+group=$GRP_OH_TOM1
+tune=$TUN_TOM1
+
+<group>
+key=$KEY_TOM1
+group_label=$center
+#include "../Data/file/K58E.txt"
+#include "../Data/region/v3.txt"

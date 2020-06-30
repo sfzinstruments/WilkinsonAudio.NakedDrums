@@ -1,0 +1,38 @@
+#define $MIC FarRooms
+
+#define $ART D3
+
+#define $VEL1 10
+#define $VEL2 20
+#define $VEL3 30
+
+#define $CODE_01 KGUU
+#define $CODE_02 SBUM
+#define $CODE_03 UEZC
+#define $CODE_04 MEVF
+#define $CODE_05 UPM1
+#define $CODE_06 LOU5
+#define $CODE_07 29PV
+#define $CODE_08 TP60
+#define $CODE_09 FS7W
+#define $CODE_10 6WQO
+#define $CODE_11 GP5F
+#define $CODE_12 W9CB
+#define $CODE_13 64B0
+#define $CODE_14 G7ES
+#define $CODE_15 DFZQ
+#define $CODE_16 MW2H
+#define $CODE_17 QM7C
+#define $CODE_18 AB01
+#define $CODE_19 FQIN
+#define $CODE_20 ZG6D
+#define $CODE_21 2TLZ
+#define $CODE_22 0HVR
+#define $CODE_23 4FAG
+#define $CODE_24 ZDZ4
+#define $CODE_25 CTFT
+#define $CODE_26 ASB9
+#define $CODE_27 RSE6
+#define $CODE_28 0V5V
+#define $CODE_29 Q3ZM
+#define $CODE_30 LKFA

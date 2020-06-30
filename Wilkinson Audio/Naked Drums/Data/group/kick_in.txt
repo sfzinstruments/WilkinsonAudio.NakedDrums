@@ -1,0 +1,11 @@
+master_label=$LAB_KICK
+master_volume=$TRIM_DI_KICK_IN
+note_polyphony=$POLY_SHELL
+off_time=$OTM_DI_KICK
+group=$GRP_DI_KICK_IN
+
+<group>
+key=$KEY_KICK
+group_label=$center
+#include "../Data/file/TEQT.txt"
+#include "../Data/region/v5.txt"

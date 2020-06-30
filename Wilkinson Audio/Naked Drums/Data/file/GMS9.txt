@@ -1,0 +1,16 @@
+#define $MIC OH_Black
+
+#define $ART D2
+
+#define $VEL1 50
+
+#define $CODE_01 GMS9
+#define $CODE_02 D5FN
+#define $CODE_03 VYY7
+#define $CODE_04 AR6S
+#define $CODE_05 3I6G
+#define $CODE_06 G7FI
+#define $CODE_07 51G4
+#define $CODE_08 YC0E
+#define $CODE_09 XE9M
+#define $CODE_10 8MR9

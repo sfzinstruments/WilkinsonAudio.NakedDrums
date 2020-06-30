@@ -1,0 +1,30 @@
+#define $MIC MidSide
+
+#define $ART D3
+
+#define $VEL1 20
+#define $VEL2 30
+
+#define $CODE_01 4FLL
+#define $CODE_02 RL0G
+#define $CODE_03 LJTM
+#define $CODE_04 K4B3
+#define $CODE_05 L7GU
+#define $CODE_06 5UE9
+#define $CODE_07 AKQM
+#define $CODE_08 B92I
+#define $CODE_09 T9HA
+#define $CODE_10 KUUX
+#define $CODE_11 ZYTD
+#define $CODE_12 AZVD
+#define $CODE_13 0KBL
+#define $CODE_14 ZH5V
+#define $CODE_15 ZX5A
+#define $CODE_16 L228
+#define $CODE_17 8U9D
+#define $CODE_18 T6W2
+#define $CODE_19 VMQP
+#define $CODE_20 2XDQ
+
+//sample-start fix
+#define $offset 0

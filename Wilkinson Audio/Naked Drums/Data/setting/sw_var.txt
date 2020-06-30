@@ -1,0 +1,2 @@
+sw_last=$SW_VAR
+sw_label=$LAB_VAR $LAB_HH

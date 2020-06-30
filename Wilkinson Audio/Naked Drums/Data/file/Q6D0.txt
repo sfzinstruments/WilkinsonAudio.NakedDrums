@@ -1,0 +1,16 @@
+#define $MIC MidSide
+
+#define $ART E3
+
+#define $VEL1 10
+
+#define $CODE_01 Q6D0
+#define $CODE_02 MVRB
+#define $CODE_03 SRJ2
+#define $CODE_04 5KE0
+#define $CODE_05 176Z
+#define $CODE_06 SR2T
+#define $CODE_07 CS5J
+#define $CODE_08 01PI
+#define $CODE_09 51I5
+#define $CODE_10 NGN6

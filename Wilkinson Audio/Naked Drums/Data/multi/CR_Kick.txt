@@ -1,0 +1,4 @@
+<master>
+locc$CR_KICK=1
+amplitude_oncc$CR_KICK=$RANGE_VOL
+#include "../Data/group/kick_cr.txt"

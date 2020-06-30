@@ -1,0 +1,12 @@
+master_label=$LAB_TOM3
+master_volume=$TRIM_DI_TOM3
+note_polyphony=$POLY_SHELL
+off_time=$OTM_DI_TOM3
+group=$GRP_DI_TOM3
+tune=$TUN_TOM3
+
+<group>
+key=$KEY_TOM3
+group_label=$center
+#include "../Data/file/ZNU9.txt"
+#include "../Data/region/v3.txt"

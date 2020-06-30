@@ -1,0 +1,560 @@
+#define $dir ../Samples
+#define $ext flac
+
+//velocity volume
+#define $VELTRACK 99
+
+//hihat cc
+#define $PED 4
+
+//---------------------------------------
+//stereo cc
+
+#define $VOL_KI 20
+#define $VOL_KS 21
+#define $VOL_ST1 22
+#define $VOL_ST2 23
+#define $VOL_SB 24
+#define $VOL_TOM1 25
+#define $VOL_TOM2 26
+#define $VOL_TOM3 27
+#define $VOL_TOM4 28
+#define $VOL_TOM5 29
+#define $VOL_HH 30
+#define $VOL_RD 31
+
+#define $PAN_KICK 32
+#define $PAN_SNR 33
+#define $PAN_TOM1 34
+#define $PAN_TOM2 35
+#define $PAN_TOM3 36
+#define $PAN_TOM4 37
+#define $PAN_TOM5 38
+#define $PAN_HH 39
+#define $PAN_RD 40
+
+#define $VOL_DI 41
+#define $VOL_OH 42
+#define $VOL_CR 43
+#define $VOL_FR 44
+#define $VOL_MS 45
+#define $VOL_CH 46
+
+//---------------------------------------
+//multi cc
+
+#define $SPLIT 67
+
+#define $OH_KICK 200
+#define $OH_SNR 201
+#define $OH_TOM1 202
+#define $OH_TOM2 203
+#define $OH_TOM3 204
+#define $OH_TOM4 205
+#define $OH_TOM5 206
+#define $OH_HH 207
+#define $OH_RD 208
+#define $OH_CRS1 209
+#define $OH_CRS2 210
+#define $OH_SPL1 211
+#define $OH_SPL2 212
+#define $OH_CHN1 213
+#define $OH_CHN2 214
+
+#define $CR_KICK 300
+#define $CR_SNR 301
+#define $CR_TOM1 302
+#define $CR_TOM2 303
+#define $CR_TOM3 304
+#define $CR_TOM4 305
+#define $CR_TOM5 306
+#define $CR_HH 307
+#define $CR_RD 308
+#define $CR_CRS1 309
+#define $CR_CRS2 310
+#define $CR_SPL1 311
+#define $CR_SPL2 312
+#define $CR_CHN1 313
+#define $CR_CHN2 314
+
+#define $FR_KICK 400
+#define $FR_SNR 401
+#define $FR_TOM1 402
+#define $FR_TOM2 403
+#define $FR_TOM3 404
+#define $FR_TOM4 405
+#define $FR_TOM5 406
+#define $FR_HH 407
+#define $FR_RD 408
+#define $FR_CRS1 409
+#define $FR_CRS2 410
+#define $FR_SPL1 411
+#define $FR_SPL2 412
+#define $FR_CHN1 413
+#define $FR_CHN2 414
+
+#define $MS_KICK 500
+#define $MS_SNR 501
+#define $MS_TOM1 502
+#define $MS_TOM2 503
+#define $MS_TOM3 504
+#define $MS_TOM4 505
+#define $MS_TOM5 506
+#define $MS_HH 507
+#define $MS_RD 508
+#define $MS_CRS1 509
+#define $MS_CRS2 510
+#define $MS_SPL1 511
+#define $MS_SPL2 512
+#define $MS_CHN1 513
+#define $MS_CHN2 514
+
+#define $CH_HH 607
+#define $CH_RD 608
+#define $CH_CRS1 609
+#define $CH_CRS2 610
+#define $CH_SPL1 611
+#define $CH_SPL2 612
+#define $CH_CHN1 613
+#define $CH_CHN2 614
+
+//---------------------------------------
+//range-set
+
+#define $RANGE_VOL 200
+#define $RANGE_PAN 100
+#define $SET_DEF 0.5
+
+//---------------------------------------
+//labels
+
+#define $LAB_KICK Kick
+#define $LAB_SNR Snare
+#define $LAB_TOM1 Tom1
+#define $LAB_TOM2 Tom2
+#define $LAB_TOM3 Tom3
+#define $LAB_TOM4 Tom4
+#define $LAB_TOM5 Tom5
+#define $LAB_HH Hats
+#define $LAB_RD Ride
+#define $LAB_CRS1 Crash1
+#define $LAB_CRS2 Crash2
+#define $LAB_SPL1 Splash1
+#define $LAB_SPL2 Splash2
+#define $LAB_CHN1 China1
+#define $LAB_CHN2 China2
+
+#define $LAB_IN In
+#define $LAB_SUB Sub
+#define $LAB_TOP Top
+#define $LAB_BOT Bottom
+#define $LAB_VOL_DI DirectMics
+#define $LAB_VOL_OH Overheads
+#define $LAB_VOL_CR CloseRoom
+#define $LAB_VOL_FR FarRooms
+#define $LAB_VOL_MS MidSide
+#define $LAB_VOL_CH ChinaWideOH
+#define $LAB_PAN Pan
+#define $LAB_SPLIT Split
+#define $LAB_PED Pedal
+#define $LAB_NON Non-Var
+#define $LAB_VAR Variable
+
+//---------------------------------------
+//articulation labels
+
+#define $center Center
+#define $sidestick Sidestick
+#define $tight Tight
+#define $closed Closed
+#define $half Half
+#define $open Open
+#define $pedal Pedal
+#define $bow Bow
+#define $bell Bell
+#define $edge Edge
+#define $choke Choke
+
+//---------------------------------------
+//kitpiece volume trim
+
+#define $TRIM_DI_KICK_IN 0
+#define $TRIM_DI_KICK_SUB 0
+#define $TRIM_DI_SNR_TOP1 0
+#define $TRIM_DI_SNR_TOP2 0
+#define $TRIM_DI_SNR_BOT 0
+#define $TRIM_DI_TOM1 0
+#define $TRIM_DI_TOM2 0
+#define $TRIM_DI_TOM3 0
+#define $TRIM_DI_TOM4 0
+#define $TRIM_DI_TOM5 0
+#define $TRIM_DI_HH -12
+#define $TRIM_DI_RD -9
+
+#define $TRIM_OH_KICK 6
+#define $TRIM_OH_SNR 0
+#define $TRIM_OH_TOM1 0
+#define $TRIM_OH_TOM2 0
+#define $TRIM_OH_TOM3 0
+#define $TRIM_OH_TOM4 0
+#define $TRIM_OH_TOM5 7
+#define $TRIM_OH_HH 0
+#define $TRIM_OH_RD -3
+#define $TRIM_OH_CRS1 -3
+#define $TRIM_OH_CRS2 -3
+#define $TRIM_OH_SPL1 -3
+#define $TRIM_OH_SPL2 -3
+#define $TRIM_OH_CHN1 -3
+#define $TRIM_OH_CHN2 -3
+
+#define $TRIM_CR_KICK 0
+#define $TRIM_CR_SNR 0
+#define $TRIM_CR_TOM1 0
+#define $TRIM_CR_TOM2 0
+#define $TRIM_CR_TOM3 0
+#define $TRIM_CR_TOM4 0
+#define $TRIM_CR_TOM5 7
+#define $TRIM_CR_HH 0
+#define $TRIM_CR_RD -3
+#define $TRIM_CR_CRS1 -3
+#define $TRIM_CR_CRS2 -3
+#define $TRIM_CR_SPL1 -9
+#define $TRIM_CR_SPL2 -3
+#define $TRIM_CR_CHN1 -3
+#define $TRIM_CR_CHN2 -3
+
+#define $TRIM_FR_KICK 0
+#define $TRIM_FR_SNR 0
+#define $TRIM_FR_TOM1 0
+#define $TRIM_FR_TOM2 0
+#define $TRIM_FR_TOM3 0
+#define $TRIM_FR_TOM4 0
+#define $TRIM_FR_TOM5 7
+#define $TRIM_FR_HH 0
+#define $TRIM_FR_RD -3
+#define $TRIM_FR_CRS1 -3
+#define $TRIM_FR_CRS2 -3
+#define $TRIM_FR_SPL1 -9
+#define $TRIM_FR_SPL2 -3
+#define $TRIM_FR_CHN1 -3
+#define $TRIM_FR_CHN2 -3
+
+#define $TRIM_MS_KICK 0
+#define $TRIM_MS_SNR 0
+#define $TRIM_MS_TOM1 0
+#define $TRIM_MS_TOM2 0
+#define $TRIM_MS_TOM3 0
+#define $TRIM_MS_TOM4 0
+#define $TRIM_MS_TOM5 7
+#define $TRIM_MS_HH 0
+#define $TRIM_MS_RD -6
+#define $TRIM_MS_CRS1 -3
+#define $TRIM_MS_CRS2 -3
+#define $TRIM_MS_SPL1 -9
+#define $TRIM_MS_SPL2 -3
+#define $TRIM_MS_CHN1 -3
+#define $TRIM_MS_CHN2 -3
+
+#define $TRIM_CH_HH 0
+#define $TRIM_CH_RD 0
+#define $TRIM_CH_CRS1 0
+#define $TRIM_CH_CRS2 0
+#define $TRIM_CH_SPL1 0
+#define $TRIM_CH_SPL2 0
+#define $TRIM_CH_CHN1 0
+#define $TRIM_CH_CHN2 0
+
+//---------------------------------------
+//note polyphony
+
+#define $POLY_SHELL 2
+#define $POLY_CYMBAL 4
+#define $POLY_EDG 8
+
+//---------------------------------------
+//group id
+
+#define $GRP_DI_KICK_IN 1
+#define $GRP_DI_KICK_SUB 2
+#define $GRP_DI_SNR_TOP1 3
+#define $GRP_DI_SNR_TOP2 4
+#define $GRP_DI_SNR_BOT 5
+#define $GRP_DI_TOM1 6
+#define $GRP_DI_TOM2 7
+#define $GRP_DI_TOM3 8
+#define $GRP_DI_TOM4 9
+#define $GRP_DI_TOM5 10
+#define $GRP_DI_HH_C 11
+#define $GRP_DI_HH_HLF 12
+#define $GRP_DI_HH_OPN 13
+#define $GRP_DI_RD_BOW 14
+#define $GRP_DI_RD_BEL 15
+
+#define $GRP_OH_KICK 16
+#define $GRP_OH_SNR 17
+#define $GRP_OH_TOM1 18
+#define $GRP_OH_TOM2 19
+#define $GRP_OH_TOM3 20
+#define $GRP_OH_TOM4 21
+#define $GRP_OH_TOM5 22
+#define $GRP_OH_HH_C 23
+#define $GRP_OH_HH_HLF 24
+#define $GRP_OH_HH_OPN 25
+#define $GRP_OH_RD_BOW 26
+#define $GRP_OH_RD_BEL 27
+#define $GRP_OH_CRS1_EDG 28
+#define $GRP_OH_CRS1_BEL 29
+#define $GRP_OH_CRS1_CHK 30
+#define $GRP_OH_CRS2_EDG 31
+#define $GRP_OH_CRS2_BEL 32
+#define $GRP_OH_CRS2_CHK 33
+#define $GRP_OH_SPL1 34
+#define $GRP_OH_SPL2 35
+#define $GRP_OH_CHN1 36
+#define $GRP_OH_CHN2 37
+
+#define $GRP_CR_KICK 38
+#define $GRP_CR_SNR 39
+#define $GRP_CR_TOM1 40
+#define $GRP_CR_TOM2 41
+#define $GRP_CR_TOM3 42
+#define $GRP_CR_TOM4 43
+#define $GRP_CR_TOM5 44
+#define $GRP_CR_HH_C 45
+#define $GRP_CR_HH_HLF 46
+#define $GRP_CR_HH_OPN 47
+#define $GRP_CR_RD_BOW 48
+#define $GRP_CR_RD_BEL 49
+#define $GRP_CR_CRS1_EDG 50
+#define $GRP_CR_CRS1_BEL 51
+#define $GRP_CR_CRS1_CHK 52
+#define $GRP_CR_CRS2_EDG 53
+#define $GRP_CR_CRS2_BEL 54
+#define $GRP_CR_CRS2_CHK 55
+#define $GRP_CR_SPL1 56
+#define $GRP_CR_SPL2 57
+#define $GRP_CR_CHN1 58
+#define $GRP_CR_CHN2 59
+
+#define $GRP_FR_KICK 60
+#define $GRP_FR_SNR 61
+#define $GRP_FR_TOM1 62
+#define $GRP_FR_TOM2 63
+#define $GRP_FR_TOM3 64
+#define $GRP_FR_TOM4 65
+#define $GRP_FR_TOM5 66
+#define $GRP_FR_HH_C 67
+#define $GRP_FR_HH_HLF 68
+#define $GRP_FR_HH_OPN 69
+#define $GRP_FR_RD_BOW 70
+#define $GRP_FR_RD_BEL 71
+#define $GRP_FR_CRS1_EDG 72
+#define $GRP_FR_CRS1_BEL 73
+#define $GRP_FR_CRS1_CHK 74
+#define $GRP_FR_CRS2_EDG 75
+#define $GRP_FR_CRS2_BEL 76
+#define $GRP_FR_CRS2_CHK 77
+#define $GRP_FR_SPL1 78
+#define $GRP_FR_SPL2 79
+#define $GRP_FR_CHN1 80
+#define $GRP_FR_CHN2 81
+
+#define $GRP_MS_KICK 82
+#define $GRP_MS_SNR 83
+#define $GRP_MS_TOM1 84
+#define $GRP_MS_TOM2 85
+#define $GRP_MS_TOM3 86
+#define $GRP_MS_TOM4 87
+#define $GRP_MS_TOM5 88
+#define $GRP_MS_HH_C 89
+#define $GRP_MS_HH_HLF 90
+#define $GRP_MS_HH_OPN 91
+#define $GRP_MS_RD_BOW 92
+#define $GRP_MS_RD_BEL 93
+#define $GRP_MS_CRS1_EDG 94
+#define $GRP_MS_CRS1_BEL 95
+#define $GRP_MS_CRS1_CHK 96
+#define $GRP_MS_CRS2_EDG 97
+#define $GRP_MS_CRS2_BEL 98
+#define $GRP_MS_CRS2_CHK 99
+#define $GRP_MS_SPL1 100
+#define $GRP_MS_SPL2 101
+#define $GRP_MS_CHN1 102
+#define $GRP_MS_CHN2 103
+
+#define $GRP_CH_HH_C 104
+#define $GRP_CH_HH_HLF 105
+#define $GRP_CH_HH_OPN 106
+#define $GRP_CH_RD_BOW 107
+#define $GRP_CH_RD_BEL 108
+#define $GRP_CH_CRS1_EDG 109
+#define $GRP_CH_CRS1_BEL 110
+#define $GRP_CH_CRS1_CHK 111
+#define $GRP_CH_CRS2_EDG 112
+#define $GRP_CH_CRS2_BEL 113
+#define $GRP_CH_CRS2_CHK 114
+#define $GRP_CH_SPL1 115
+#define $GRP_CH_SPL2 116
+#define $GRP_CH_CHN1 117
+#define $GRP_CH_CHN2 118
+
+//shared id
+#define $OFF_HH_HLF 200
+#define $OFF_HH_OPN 201
+#define $OFF_RD 202
+#define $OFF_CRS1 203
+#define $OFF_CRS2 204
+#define $OFF_SPL1 205
+#define $OFF_SPL2 206
+#define $OFF_CHN1 207
+#define $OFF_CHN2 208
+
+//---------------------------------------
+//off time
+
+#define $OTM_DI_KICK 1.5
+#define $OTM_DI_SNR 1.5
+#define $OTM_DI_TOM1 2
+#define $OTM_DI_TOM2 2.5
+#define $OTM_DI_TOM3 3
+#define $OTM_DI_TOM4 3.5
+#define $OTM_DI_TOM5 4
+#define $OTM_DI_HH 0.2
+#define $OTM_DI_RD 1.5
+
+#define $OTM_OH_KICK 1.6
+#define $OTM_OH_SNR 1.6
+#define $OTM_OH_TOM1 2.1
+#define $OTM_OH_TOM2 2.6
+#define $OTM_OH_TOM3 3.1
+#define $OTM_OH_TOM4 3.6
+#define $OTM_OH_TOM5 4.1
+#define $OTM_OH_HH 0.3
+#define $OTM_OH_RD 1.6
+#define $OTM_OH_CRS1_EDG 0.6
+#define $OTM_OH_CRS1_BEL 1.5
+#define $OTM_OH_CRS2_EDG 0.6
+#define $OTM_OH_CRS2_BEL 1.5
+#define $OTM_OH_SPL1 1.3
+#define $OTM_OH_SPL2 1.3
+#define $OTM_OH_CHN1 1.5
+#define $OTM_OH_CHN2 1.5
+
+#define $OTM_CR_KICK 1.65
+#define $OTM_CR_SNR 1.65
+#define $OTM_CR_TOM1 2.15
+#define $OTM_CR_TOM2 2.65
+#define $OTM_CR_TOM3 3.15
+#define $OTM_CR_TOM4 3.65
+#define $OTM_CR_TOM5 4.15
+#define $OTM_CR_HH 0.35
+#define $OTM_CR_RD 1.65
+#define $OTM_CR_CRS1_EDG 0.65
+#define $OTM_CR_CRS1_BEL 1.55
+#define $OTM_CR_CRS2_EDG 0.65
+#define $OTM_CR_CRS2_BEL 1.55
+#define $OTM_CR_SPL1 1.35
+#define $OTM_CR_SPL2 1.35
+#define $OTM_CR_CHN1 1.55
+#define $OTM_CR_CHN2 1.55
+
+#define $OTM_FR_KICK 1.8
+#define $OTM_FR_SNR 1.8
+#define $OTM_FR_TOM1 2.3
+#define $OTM_FR_TOM2 2.8
+#define $OTM_FR_TOM3 3.3
+#define $OTM_FR_TOM4 3.8
+#define $OTM_FR_TOM5 4.3
+#define $OTM_FR_HH 0.5
+#define $OTM_FR_RD 1.8
+#define $OTM_FR_CRS1_EDG 0.8
+#define $OTM_FR_CRS1_BEL 1.7
+#define $OTM_FR_CRS2_EDG 0.8
+#define $OTM_FR_CRS2_BEL 1.7
+#define $OTM_FR_SPL1 1.5
+#define $OTM_FR_SPL2 1.5
+#define $OTM_FR_CHN1 1.7
+#define $OTM_FR_CHN2 1.7
+
+#define $OTM_MS_KICK 1.7
+#define $OTM_MS_SNR 1.7
+#define $OTM_MS_TOM1 2.2
+#define $OTM_MS_TOM2 2.7
+#define $OTM_MS_TOM3 3.2
+#define $OTM_MS_TOM4 3.7
+#define $OTM_MS_TOM5 4.2
+#define $OTM_MS_HH 0.4
+#define $OTM_MS_RD 1.7
+#define $OTM_MS_CRS1_EDG 0.7
+#define $OTM_MS_CRS1_BEL 1.6
+#define $OTM_MS_CRS2_EDG 0.7
+#define $OTM_MS_CRS2_BEL 1.6
+#define $OTM_MS_SPL1 1.4
+#define $OTM_MS_SPL2 1.4
+#define $OTM_MS_CHN1 1.6
+#define $OTM_MS_CHN2 1.6
+
+#define $OTM_CH_HH 0.45
+#define $OTM_CH_RD 1.75
+#define $OTM_CH_CRS1_EDG 0.75
+#define $OTM_CH_CRS1_BEL 1.65
+#define $OTM_CH_CRS2_EDG 0.75
+#define $OTM_CH_CRS2_BEL 1.65
+#define $OTM_CH_SPL1 1.45
+#define $OTM_CH_SPL2 1.45
+#define $OTM_CH_CHN1 1.65
+#define $OTM_CH_CHN2 1.65
+
+//---------------------------------------
+//toms tuning in cents
+
+#define $TUN_TOM1 0
+#define $TUN_TOM2 0
+#define $TUN_TOM3 -200
+#define $TUN_TOM4 -70
+#define $TUN_TOM5 0
+
+//---------------------------------------
+//crash tail decrement
+
+#define $RT_DECAY 22
+
+//---------------------------------------
+//velocity range
+
+#define $V11L 1            #define $V11H 127
+
+#define $V21L 1            #define $V21H 85
+#define $V22L 86          #define $V22H 127
+
+#define $V31L 1            #define $V31H 43
+#define $V32L 44          #define $V32H 85
+#define $V33L 86          #define $V33H 127
+
+#define $V51L 1            #define $V51H 27
+#define $V52L 28          #define $V52H 52
+#define $V53L 53          #define $V53H 77
+#define $V54L 78          #define $V54H 102
+#define $V55L 103        #define $V55H 127
+
+//---------------------------------------
+//variable hh range
+
+#define $LOPED1 0       #define $HIPED1 43
+#define $LOPED2 44     #define $HIPED2 85
+#define $LOPED3 86     #define $HIPED3 127
+
+//---------------------------------------
+//custom curves
+
+<curve>
+curve_index=9
+v000=0
+v001=1
+v127=1
+
+//---------------------------------------
+//control header
+
+<control>
+default_path=$dir/

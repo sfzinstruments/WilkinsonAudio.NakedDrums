@@ -1,0 +1,16 @@
+#define $MIC CloseRoom
+
+#define $ART F3
+
+#define $VEL1 10
+
+#define $CODE_01 M646
+#define $CODE_02 6Z75
+#define $CODE_03 KMS6
+#define $CODE_04 GSUX
+#define $CODE_05 E62Z
+#define $CODE_06 EEAZ
+#define $CODE_07 AD5T
+#define $CODE_08 WN1U
+#define $CODE_09 85C9
+#define $CODE_10 NEHU

@@ -1,0 +1,12 @@
+master_label=$LAB_TOM5
+master_volume=$TRIM_OH_TOM5
+note_polyphony=$POLY_SHELL
+off_time=$OTM_OH_TOM5
+group=$GRP_OH_TOM5
+tune=$TUN_TOM5
+
+<group>
+key=$KEY_TOM5
+group_label=$center
+#include "../Data/file/38X2.txt"
+#include "../Data/region/v3.txt"

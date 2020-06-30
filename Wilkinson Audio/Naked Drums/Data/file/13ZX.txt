@@ -1,0 +1,16 @@
+#define $MIC FarRooms
+
+#define $ART E3
+
+#define $VEL1 10
+
+#define $CODE_01 13ZX
+#define $CODE_02 2U73
+#define $CODE_03 OQMW
+#define $CODE_04 DEN0
+#define $CODE_05 PEX1
+#define $CODE_06 NG3A
+#define $CODE_07 8H0J
+#define $CODE_08 RRIQ
+#define $CODE_09 SBHF
+#define $CODE_10 6XJS

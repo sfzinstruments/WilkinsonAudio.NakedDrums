@@ -1,0 +1,4 @@
+<master>
+locc$CR_SNR=1
+amplitude_oncc$CR_SNR=$RANGE_VOL
+#include "../Data/group/snare_cr.txt"

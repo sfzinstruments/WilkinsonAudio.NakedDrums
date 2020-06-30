@@ -1,0 +1,16 @@
+#define $MIC OH
+
+#define $ART E3
+
+#define $VEL1 10
+
+#define $CODE_01 M8OD
+#define $CODE_02 OCL3
+#define $CODE_03 HRH1
+#define $CODE_04 TZVK
+#define $CODE_05 RNEA
+#define $CODE_06 N6A8
+#define $CODE_07 6NL9
+#define $CODE_08 L9V6
+#define $CODE_09 KF4N
+#define $CODE_10 7NJE

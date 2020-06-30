@@ -1,0 +1,7 @@
+trigger=release
+rt_decay=$RT_DECAY
+locc130=127
+hicc130=127
+on_locc130=127
+on_hicc130=127
+sw_vel=previous

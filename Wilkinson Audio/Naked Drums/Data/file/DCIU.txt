@@ -1,0 +1,38 @@
+#define $MIC CloseRoom
+
+#define $ART A2
+
+#define $VEL1 10
+#define $VEL2 20
+#define $VEL3 30
+
+#define $CODE_01 DCIU
+#define $CODE_02 TDWE
+#define $CODE_03 OEEK
+#define $CODE_04 88O7
+#define $CODE_05 SO5X
+#define $CODE_06 A7FW
+#define $CODE_07 A5LG
+#define $CODE_08 CXNI
+#define $CODE_09 3RM8
+#define $CODE_10 Y6Q4
+#define $CODE_11 4OE8
+#define $CODE_12 L30U
+#define $CODE_13 WN3F
+#define $CODE_14 WFYD
+#define $CODE_15 FY4J
+#define $CODE_16 MSZP
+#define $CODE_17 L43U
+#define $CODE_18 NWB1
+#define $CODE_19 AA8H
+#define $CODE_20 VZ1O
+#define $CODE_21 N1C2
+#define $CODE_22 HX0D
+#define $CODE_23 RPZN
+#define $CODE_24 EL31
+#define $CODE_25 FI35
+#define $CODE_26 VWK0
+#define $CODE_27 IOVP
+#define $CODE_28 VPGD
+#define $CODE_29 75BA
+#define $CODE_30 YR3Y

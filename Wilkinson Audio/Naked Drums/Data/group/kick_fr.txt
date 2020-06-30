@@ -1,0 +1,11 @@
+master_label=$LAB_KICK
+master_volume=$TRIM_FR_KICK
+note_polyphony=$POLY_SHELL
+off_time=$OTM_FR_KICK
+group=$GRP_FR_KICK
+
+<group>
+key=$KEY_KICK
+group_label=$center
+#include "../Data/file/GV17.txt"
+#include "../Data/region/v5.txt"

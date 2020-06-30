@@ -1,0 +1,4 @@
+<master>
+locc$OH_TOM3=1
+amplitude_oncc$OH_TOM3=$RANGE_VOL
+#include "../Data/group/tom3_oh.txt"

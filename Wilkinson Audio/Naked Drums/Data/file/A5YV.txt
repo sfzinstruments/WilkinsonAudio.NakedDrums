@@ -1,0 +1,16 @@
+#define $MIC RideMic
+
+#define $ART E3
+
+#define $VEL1 10
+
+#define $CODE_01 A5YV
+#define $CODE_02 K673
+#define $CODE_03 ARA8
+#define $CODE_04 WJ66
+#define $CODE_05 B671
+#define $CODE_06 ARLT
+#define $CODE_07 GJSM
+#define $CODE_08 715F
+#define $CODE_09 NWIY
+#define $CODE_10 E1KQ

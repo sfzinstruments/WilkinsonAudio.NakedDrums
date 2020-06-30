@@ -1,0 +1,2 @@
+label_cc$VOL_FR=$LAB_VOL_FR
+set_hdcc$VOL_FR=$SET_DEF

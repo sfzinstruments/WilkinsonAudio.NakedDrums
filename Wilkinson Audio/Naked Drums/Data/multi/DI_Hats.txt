@@ -1,0 +1,2 @@
+<master>
+#include "../Data/group/hats_di.txt"

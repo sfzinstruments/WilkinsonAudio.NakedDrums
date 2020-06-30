@@ -1,0 +1,51 @@
+label_cc$VOL_KI=$LAB_KICK$LAB_IN
+label_cc$VOL_KS=$LAB_KICK$LAB_SUB
+label_cc$VOL_ST1=$LAB_SNR$LAB_TOP1
+label_cc$VOL_ST2=$LAB_SNR$LAB_TOP2
+label_cc$VOL_SB=$LAB_SNR$LAB_BOT
+label_cc$VOL_TOM1=$LAB_TOM1
+label_cc$VOL_TOM2=$LAB_TOM2
+label_cc$VOL_TOM3=$LAB_TOM3
+label_cc$VOL_TOM4=$LAB_TOM4
+label_cc$VOL_TOM5=$LAB_TOM5
+label_cc$VOL_HH=$LAB_HH
+label_cc$VOL_RD=$LAB_RD
+
+label_cc$PAN_KICK=$LAB_PAN $LAB_KICK
+label_cc$PAN_SNR=$LAB_PAN $LAB_SNR
+label_cc$PAN_TOM1=$LAB_PAN $LAB_TOM1
+label_cc$PAN_TOM2=$LAB_PAN $LAB_TOM2
+label_cc$PAN_TOM3=$LAB_PAN $LAB_TOM3
+label_cc$PAN_TOM4=$LAB_PAN $LAB_TOM4
+label_cc$PAN_TOM5=$LAB_PAN $LAB_TOM5
+label_cc$PAN_HH=$LAB_PAN $LAB_HH
+label_cc$PAN_RD=$LAB_PAN $LAB_RD
+
+label_cc$VOL_DI=$LAB_VOL_DI
+label_cc$VOL_OH=$LAB_VOL_OH
+
+set_hdcc$VOL_KI=$SET_DEF
+set_hdcc$VOL_KS=$SET_DEF
+set_hdcc$VOL_ST1=$SET_DEF
+set_hdcc$VOL_ST2=$SET_DEF
+set_hdcc$VOL_SB=$SET_DEF
+set_hdcc$VOL_TOM1=$SET_DEF
+set_hdcc$VOL_TOM2=$SET_DEF
+set_hdcc$VOL_TOM3=$SET_DEF
+set_hdcc$VOL_TOM4=$SET_DEF
+set_hdcc$VOL_TOM5=$SET_DEF
+set_hdcc$VOL_HH=0.1
+set_hdcc$VOL_RD=0.1
+
+set_hdcc$PAN_KICK=$SET_DEF
+set_hdcc$PAN_SNR=$SET_DEF
+set_hdcc$PAN_TOM1=0.2
+set_hdcc$PAN_TOM2=0.35
+set_hdcc$PAN_TOM3=0.5
+set_hdcc$PAN_TOM4=0.65
+set_hdcc$PAN_TOM5=0.8
+set_hdcc$PAN_HH=0.35
+set_hdcc$PAN_RD=0.65
+
+set_hdcc$VOL_DI=$SET_DEF
+set_hdcc$VOL_OH=$SET_DEF

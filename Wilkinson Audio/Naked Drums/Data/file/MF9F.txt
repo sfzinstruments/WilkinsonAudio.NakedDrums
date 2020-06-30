@@ -1,0 +1,16 @@
+#define $MIC TopOne
+
+#define $ART F3
+
+#define $VEL1 10
+
+#define $CODE_01 MF9F
+#define $CODE_02 52BM
+#define $CODE_03 05QO
+#define $CODE_04 PWAP
+#define $CODE_05 GMC6
+#define $CODE_06 H1GK
+#define $CODE_07 RR6L
+#define $CODE_08 A3VT
+#define $CODE_09 203P
+#define $CODE_10 KMET
