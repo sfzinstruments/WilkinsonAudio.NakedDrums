@@ -4,6 +4,7 @@ group=$OFF_SPL1
 
 <region>
 key=$KEY_SPL1
+end=-1
 #include "../Data/setting/rt_polyaft.txt"
 
 <region>
