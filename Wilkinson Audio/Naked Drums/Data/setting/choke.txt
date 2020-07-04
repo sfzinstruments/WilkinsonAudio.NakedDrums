@@ -1,3 +1,4 @@
 group_label=$choke
 sample=*silence
+ampeg_sustain=0
 seq_length=1
