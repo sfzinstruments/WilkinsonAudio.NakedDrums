@@ -4,7 +4,6 @@ group=$OFF_CHN1
 
 <region>
 key=$KEY_CHN1
-end=-1
 #include "../Data/setting/rt_polyaft.txt"
 
 <region>
