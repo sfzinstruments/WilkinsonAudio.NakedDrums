@@ -4,10 +4,12 @@ group=$OFF_RD
 
 <region>
 key=$KEY_RD_BOW
+end=-1
 #include "../Data/setting/rt_polyaft.txt"
 
 <region>
 key=$KEY_RD_BEL
+end=-1
 #include "../Data/setting/rt_polyaft.txt"
 
 <region>
