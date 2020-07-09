@@ -95,7 +95,7 @@ Sforzando's generic controls range :
 
 Kitpiece controls (volume and pan) in the "Stereo" version are for the Direct
 mics only (Kick, Snare, Toms, Hats and Ride). Mic layers name are the volume
-control for each mic layer globally. An example, to make cymbals louder or quiter,
+control for each mic layer globally. An example, to make cymbals louder or quieter,
 turn up or down the "Overheads" control.
 In the "Multi" version, each kitpiece volume can be adjusted independently in
 the respective mic channel.
@@ -118,8 +118,8 @@ For the use with Keyboard controller or DAW piano-roll, choking the cymbal by
 other key.
 The cymbal choke keys are placed at key 60 and above.
 
-* A little issue only for the Crash choke with key, is that, the choke key needs
-to be pressed before releasing the crash key.
+* A little issue only for the Crash Edge choke with key, is that, the choke key needs
+to be pressed before releasing the crash edge key.
 
 There are 2 hihat modes,
 
@@ -135,6 +135,12 @@ and this also can be change in the keymap)
 * Note, that changing the keywitch for the ARIA Player version need to be done
 from keyboard controller or DAW midi track to affect all channel/slots at once.
 Changing keyswitch from ARIA Player GUI only affect the respective slot.
+
+# Additional Info
+
+- This sfz version is 'side-ward' compatible with the original wav files, by putting all the wavs into this sfz "Samples" directory, and then change the `#define $ext` to wav (in the macro.txt).
+
+- Caution for `.ariax` multi version : Do not change volume and pan (CC7 & CC10) from your Keyboard/MIDI controller/DAW MIDI track, because it will modify all the ARIA Player's slots/channels simultaneously.
 
 # License
 
