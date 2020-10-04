@@ -2,7 +2,7 @@
 // ARIA SFZ Level 2.0
 //--------------------------------------
 // Naked Drums
-// © Wilkinson Audio 2016
+// Â© Wilkinson Audio 2016
 //--------------------------------------
 
 #include "Naked Drums GM keymap.txt"
@@ -11,6 +11,7 @@
 //--------------------------------------
 #include "../Data/control/str_oh.txt"
 #include "../Data/control/hh_ped.txt"
+#include "../Data/control/vol_pan.txt"
 //--------------------------------------
 #include "../Data/global.txt"
 
