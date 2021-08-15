@@ -6,6 +6,7 @@ key=$KEY_CHN1
 group=$GRP_MS_CHN1
 off_by=$OFF_CHN1
 off_time=$OTM_MS_CHN1
+off_shape=$OSH_CYMBAL
 note_polyphony=$POLY_CYMBAL
 group_label=$edge
 #include "../Data/file/B8XI.txt"
