@@ -1,7 +1,7 @@
 #include "../Data/setting/sw_set.txt"
 master_label=$LAB_HH
 master_volume=$TRIM_CR_HH
-note_polyphony=$POLY_CYMBAL
+note_polyphony=$POLY_HH
 off_time=$OTM_CR_HH
 
 //articulation trim
@@ -13,7 +13,7 @@ off_time=$OTM_CR_HH
 
 <group>
 key=$KEY_HH_PDL
-group=$GRP_CR_HH_C
+group=$GRP_CR_HH_PDL
 group_volume=$TRIM_HH_PDL
 group_label=$pedal
 #include "../Data/setting/off_all.txt"
@@ -24,7 +24,8 @@ group_label=$pedal
 
 <group>
 key=$KEY_HH_TGH
-group=$GRP_CR_HH_C
+group=$GRP_CR_HH_TGH
+off_by=$OFF_HH_TGH
 group_volume=$TRIM_HH_TGH
 group_label=$tight
 #include "../Data/setting/sw_non.txt"
@@ -34,7 +35,8 @@ group_label=$tight
 
 <group>
 key=$KEY_HH_CLS
-group=$GRP_CR_HH_C
+group=$GRP_CR_HH_CLS
+off_by=$OFF_HH_CLS
 group_volume=$TRIM_HH_CLS
 group_label=$closed
 #include "../Data/setting/sw_non.txt"
@@ -94,7 +96,8 @@ group_label=$half
 key=$KEY_HH_BOW
 locc$PED=$LOPED3
 hicc$PED=$HIPED3
-group=$GRP_CR_HH_C
+group=$GRP_CR_HH_CLS
+off_by=$OFF_HH_CLS
 group_volume=$TRIM_HH_TGH
 group_label=$tight
 #include "../Data/setting/sw_var.txt"
@@ -133,7 +136,8 @@ group_label=$half
 key=$KEY_HH_EDG
 locc$PED=$LOPED3
 hicc$PED=$HIPED3
-group=$GRP_CR_HH_C
+group=$GRP_CR_HH_TGH
+off_by=$OFF_HH_TGH
 group_volume=$TRIM_HH_CLS
 group_label=$closed
 #include "../Data/setting/sw_var.txt"
