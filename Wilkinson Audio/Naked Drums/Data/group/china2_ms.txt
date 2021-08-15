@@ -6,6 +6,7 @@ key=$KEY_CHN2
 group=$GRP_MS_CHN2
 off_by=$OFF_CHN2
 off_time=$OTM_MS_CHN2
+off_shape=$OSH_CYMBAL
 note_polyphony=$POLY_CYMBAL
 group_label=$edge
 #include "../Data/file/XXB3.txt"
