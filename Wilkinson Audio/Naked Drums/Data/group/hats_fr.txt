@@ -96,8 +96,8 @@ group_label=$half
 key=$KEY_HH_BOW
 locc$PED=$LOPED3
 hicc$PED=$HIPED3
-group=$GRP_FR_HH_CLS
-off_by=$OFF_HH_CLS
+group=$GRP_FR_HH_TGH
+off_by=$OFF_HH_TGH
 group_volume=$TRIM_HH_TGH
 group_label=$tight
 #include "../Data/setting/sw_var.txt"
@@ -136,8 +136,8 @@ group_label=$half
 key=$KEY_HH_EDG
 locc$PED=$LOPED3
 hicc$PED=$HIPED3
-group=$GRP_FR_HH_TGH
-off_by=$OFF_HH_TGH
+group=$GRP_FR_HH_CLS
+off_by=$OFF_HH_CLS
 group_volume=$TRIM_HH_CLS
 group_label=$closed
 #include "../Data/setting/sw_var.txt"
