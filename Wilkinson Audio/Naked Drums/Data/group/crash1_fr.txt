@@ -22,6 +22,7 @@ key=$KEY_CRS1_BEL
 group=$GRP_FR_CRS1_BEL
 off_by=$OFF_CRS1
 off_time=$OTM_FR_CRS1_BEL
+off_shape=$OSH_CYMBAL
 note_polyphony=$POLY_CYMBAL
 group_volume=$TRIM_CRS1_BEL
 group_label=$bell
