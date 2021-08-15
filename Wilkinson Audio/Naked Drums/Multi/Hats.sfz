@@ -9,7 +9,6 @@
 #include "../Data/macro.txt"
 //--------------------------------------
 #include "../Data/control/hh_ped.txt"
-#include "../Data/control/vol_pan.txt"
 //--------------------------------------
 #include "../Data/global.txt"
 
