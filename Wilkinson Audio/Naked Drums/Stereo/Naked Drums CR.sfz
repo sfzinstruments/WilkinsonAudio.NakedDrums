@@ -11,7 +11,6 @@
 #include "../Data/control/str_oh.txt"
 #include "../Data/control/str_cr.txt"
 #include "../Data/control/hh_ped.txt"
-#include "../Data/control/vol_pan.txt"
 //--------------------------------------
 #include "../Data/global.txt"
 
