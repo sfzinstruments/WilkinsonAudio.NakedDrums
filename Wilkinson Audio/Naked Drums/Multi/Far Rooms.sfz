@@ -10,7 +10,6 @@
 //--------------------------------------
 #include "../Data/control/def_fr.txt"
 #include "../Data/control/hh_ped.txt"
-#include "../Data/control/vol_pan.txt"
 //--------------------------------------
 #include "../Data/global.txt"
 
