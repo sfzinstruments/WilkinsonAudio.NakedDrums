@@ -1,3 +1,8 @@
+label_cc7=Vol
+label_cc10=Pan
+set_cc7=100
+set_hdcc10=0.5
+
 <global>
 loop_mode=one_shot
 seq_length=10
